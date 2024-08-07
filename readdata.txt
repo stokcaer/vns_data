@@ -1,0 +1,19 @@
+20
+10
+70
+5
+10
+1
+10
+
+
+//I: # of orders
+//A: tightness factor 1 (0<=a<=100; a/100=alpha)
+//B: tightness factor 2 (0<=b<=100; a/10=beta)
+//DD: Number of destinations to be assigned
+//ins: # of instances
+//S: Initial for instance to be generated
+//U: Last instance to be generated
+
+
+	
